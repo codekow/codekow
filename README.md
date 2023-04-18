@@ -4,7 +4,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## 👯 I’m looking to collaborate on ...
-- Anything related to OpenShift/Kubernetes
+- Anything related to OpenShift / Kubernetes
 - Data Science / Python related projects
 
 ## 🌱 I’m currently learning ...
